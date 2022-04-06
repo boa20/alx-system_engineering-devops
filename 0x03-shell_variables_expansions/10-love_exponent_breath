@@ -1,4 +1,2 @@
 #!/bin/bash
-echo $(($BREADTH**$LOVE))
-#!/bin/bash
 echo $(($BREATH**$LOVE))
