@@ -1,0 +1,3 @@
+#!/bin/bash
+# Connects to my school server
+ssh -i ~/.ssh/school ubuntu@3.90.81.115
