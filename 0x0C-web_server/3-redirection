@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
 # configures an Nginx server so that /redirect_me is redirecting to another page
-
 sudo apt -y update
 sudo apt -y install nginx
 sudo ufw allow 'Nginx HTTP'
